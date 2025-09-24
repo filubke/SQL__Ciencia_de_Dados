@@ -1,0 +1,7 @@
+Analisando o valor de venda, vemos que o ano de 2017 foi o mais rentável;
+- Em geral no ano de 2017 os valores de venda foram estáveis com o mês 6 se destacando;
+- Nenhum consumidor se destaca na quantidade de pedidos;
+- Temos poucos itens com baixo estoque;
+- Alguns vendedores não tiveram nenhuma venda;
+- Dois vendedores se destacam no valor total de venda, entretanto ao olhar a razão entre o valor de venda e a quantidade vendida nenhum vendedor se destaca;
+- Nenhuma loja tem em estoque mais que 30 unidades de nenhum item.
